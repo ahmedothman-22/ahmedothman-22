@@ -32,10 +32,6 @@ I'm currently focused on developing my skills in analyzing data, building predic
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
----
-
-### 📊 My Kaggle Journey
-
 <p align="left">
   <a href="https://www.kaggle.com/ahmedosman220">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Profile">
@@ -58,6 +54,4 @@ I'm currently focused on developing my skills in analyzing data, building predic
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedosman112200&show_icons=true&theme=dark" alt="Ahmed's GitHub stats">
-</p>
+
